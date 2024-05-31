@@ -21,4 +21,4 @@ Este projeto é um contador simples construído com React e utilizando hooks (`u
 1. Clone este repositório:
 
    git clone https://github.com/Ale-Sampaio/react-counter-hooks.git
->>>>>>> 6750d0190c3f7a2e65477c19c793628cec678345
+
