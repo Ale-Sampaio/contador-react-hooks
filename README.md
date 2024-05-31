@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React Counter with Hooks
+
+Este projeto é um contador simples construído com React e utilizando hooks (`useState` e `useEffect`). O objetivo deste projeto é demonstrar como usar hooks no React para gerenciar o estado e efeitos colaterais em componentes funcionais.
+
+## Funcionalidades
+
+- Incrementar o valor do contador.
+- Decrementar o valor do contador.
+- Resetar o contador para zero.
+- Atualizar o título da página com o valor atual do contador.
+
+## Tecnologias Utilizadas
+
+- React
+- Hooks (useState, useEffect)
+- CSS para estilização
+
+## Como Usar
+
+1. Clone este repositório:
+
+   git clone https://github.com/Ale-Sampaio/react-counter-hooks.git
+>>>>>>> 6750d0190c3f7a2e65477c19c793628cec678345
