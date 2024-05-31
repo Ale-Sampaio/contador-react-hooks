@@ -1,0 +1,48 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 60px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  gap: 2rem;
+}
+
+.counter span {
+  font-size: 36px;
+  font-weight: 500;
+}
+
+.counter button {
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  min-width: 150px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.counter button:hover{
+transform: scale(1.05);
+}
+
+.btn-add {
+  background-color: rgb(48, 106, 216);
+  color: #fff;
+}
+
+.btn-remove {
+  background-color: rgb(216, 48, 90);
+  color: #fff;
+}
+
+.btn-reset {
+  color: #000000;
+}
+
+.counter p{
+    font-size: 10px;
+    color: #747474;
+}
